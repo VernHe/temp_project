@@ -1,0 +1,221 @@
+description,reference_key,price
+Peru,PER,7
+Pakistan,PAK,29
+Norway,NOR,9
+Cuba,CUB,12
+Gabon,GAB,22
+Ukraine,UKR,16
+Dominican Republic,DOM,8
+Hong Kong,HKG,8
+Burkina Faso,BFA,18
+Costa Rica,CRI,6
+Azerbaijan,AZE,44
+Reunion/Mayotte,REU,26
+Somalia,SOM,25
+Haiti,HTI,22
+Palau,PLW,14
+Singapore,SGP,6
+Zambia,ZMB,30
+Zimbabwe,ZWE,19
+Niue,NIU,26
+Saudi Arabia,SAU,12
+Venezuela,VEN,12
+Kazakhstan,KAZ,29
+Israel,ISR,15
+Denmark,DNK,7
+Tanzania,TZA,24
+Chile,CHL,9
+Morocco,MAR,20
+New Zealand,NZL,14
+Moldova,MDA,9
+Bangladesh,BGD,35
+Bahrain,BHR,4
+Congo,COG,14
+Montenegro,MNE,11
+Sri Lanka,LKA,32
+Turkey,TUR,5
+Madagascar,MDG,29
+Niger,NER,24
+Estonia,EST,13
+Mongolia,MNG,30
+Mozambique,MOZ,15
+Ethiopia,ETH,30
+Turkmenistan,TKM,22
+Bosnia and Herzegovina,BIH,12
+Ghana,GHA,20
+Argentina,ARG,10
+Rwanda,RWA,25
+American Samoa,ASM,25
+Sierra Leone,SLE,14
+Laos PDR,LAO,9
+Suriname,SUR,18
+Syria,SYR,33
+Qatar,QAT,9
+Botswana,BWA,14
+Seychelles,SYC,5
+Senegal,SEN,27
+Gibraltar,GIB,12
+Guatemala,GTM,17
+Jamaica,JAM,22
+Equatorial Guinea,GNQ,14
+Netherlands,NLD,13
+South Africa,ZAF,4
+Belize,BLZ,36
+Monaco,MCO,25
+Bhutan,BTN,33
+Paraguay,PRY,8
+Guinea,GIN,20
+Nicaragua,NIC,11
+Iceland,ISL,9
+Japan,JPN,12
+United Kingdom 2023 MAR,GBR,6
+Poland,POL,6
+Liechtenstein,LIE,5
+Myanmar,MMR,25
+Georgia,GEO,16
+Trinidad and Tobago,TTO,18
+Macedonia,MKD,10
+Nigeria,NGA,27
+Korea Republic of,KOR,7
+Gambia,GMB,15
+Portugal,PRT,7
+Egypt,EGY,25
+Angola,AGO,11
+Iran,IRN,25
+Andorra,AND,18
+Falkland Islands,FLK,18
+Honduras,HND,12
+Papua New Guinea,PNG,19
+Libya,LBY,43
+Fiji,FJI,15
+Tajikistan,TJK,37
+Samoa,WSM,20
+Indonesia,IDN,48
+Guam,GUM,10
+United Arab Emirates,ARE,15
+Central Africa,CAF,14
+Jordan,JOR,24
+Uzbekistan,UZB,42
+Oman,OMN,14
+Spain,ESP,12
+St Pierre and Miquelon,SPM,20
+Latvia,LVA,10
+Croatia,HRV,11
+United States 2023 MAR,USA,1
+Czech Republic,CZE,8
+Antigua and Barbuda,ATG,13
+Micronesia,FSM,10
+East Timor,TLS,15
+Brunei,BRN,3
+Slovakia,SVK,12
+Italy,ITA,13
+Sao Tome and Principe,STP,18
+Montserrat,MSR,13
+Malaysia,MYS,12
+Cyprus,CYP,12
+El Salvador,SLV,8
+Bolivia,BOL,17
+Thailand,THA,5
+Armenia,ARM,19
+Malta,MLT,9
+San Marino,SMR,15
+Maldives,MDV,8
+Austria,AUT,13
+Marshall Islands,MHL,21
+Benin,BEN,19
+Solomon Islands,SLB,11
+Grenada,GRD,22
+Cameroon,CMR,19
+Macau,MAC,8
+India,IND,9
+Belarus,BLR,34
+Russia,RUS,94
+Panama,PAN,13
+French Guiana,GUF,25
+Brazil,BRA,8
+French Polynesia,PYF,24
+Nepal,NPL,20
+Hungary,HUN,12
+Lesotho,LSO,14
+Bahamas,BHS,7
+"Virgin Islands, British",VGB,19
+Turks and Caicos Islands,TCA,13
+Australia 2023 MAR,AUS,3
+Germany,DEU,13
+Romania,ROU,10
+Swaziland,SWZ,13
+Guadeloupe,GLP,18
+Cook Islands,COK,11
+Djibouti,DJI,15
+Tunisia,TUN,28
+Iraq,IRQ,28
+Sudan,SDN,31
+Mauritius,MUS,18
+Tonga,TON,17
+Martinique,MTQ,18
+Cambodia,KHM,19
+Mauritania,MRT,20
+Slovenia,SVN,20
+Colombia,COL,7
+Dominica,DMA,17
+Burundi,BDI,34
+Palestinian Territory,PSE,43
+Albania,ALB,12
+Comoros,COM,21
+Cayman Islands,CYM,18
+Kenya,KEN,14
+Mali,MLI,16
+Vietnam,VNM,21
+Chad,TCD,25
+Puerto Rico,PRI,6
+Guinea-Bissau,GNB,21
+Belgium,BEL,14
+Greece,GRC,9
+Finland,FIN,12
+Vanuatu,VUT,22
+Uganda,UGA,28
+Faroe Islands,FRO,7
+China,CHN,5
+Barbados,BRB,13
+Bermuda,BMU,16
+Wallis and Futuna,WLF,15
+Yemen,YEM,32
+Algeria,DZA,28
+Anguilla,AIA,11
+St Lucia,LCA,14
+Ivory Coast,CIV,17
+"Virgin Islands, U.S.",VIR,3
+Eritrea,ERI,16
+Luxembourg,LUX,10
+Togo,TGO,8
+Kuwait,KWT,22
+Kiribati,KIR,17
+Liberia,LBR,13
+Switzerland,CHE,10
+Bulgaria,BGR,17
+New Caledonia,NCL,24
+Ecuador,ECU,20
+Sweden,SWE,8
+DR Congo,COD,19
+Malawi,MWI,30
+Guyana,GUY,24
+France,FRA,8
+Aruba,ABW,14
+Lebanon,LBN,20
+Uruguay,URY,12
+Lithuania,LTU,6
+Greenland,GRL,6
+Tuvalu,TUV,14
+Taiwan,TWN,8
+St Kitts and Nevis,KNA,13
+Namibia,NAM,9
+Afghanistan,AFG,31
+Serbia,SRB,11
+Kyrgyzstan,KGZ,32
+Philippines,PHL,23
+Norfolk Island,NFK,4
+Ireland,IRL,10
+St Vincent Grenadines,VCT,18
+Canada 2023 MAR,CAN,2
+Mexico,MEX,5
+Cape Verde,CPV,17
